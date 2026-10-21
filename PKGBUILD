@@ -5,7 +5,7 @@ pkgver=1.0.0
 pkgrel=1
 pkgdesc="Terminal VGM radio station with spectrum visualiser and request system"
 arch=('any')
-url="https://github.com/TheWhyteWolf/MiNERVA-Radio"
+url="https://github.com/allthemalware/MiNERVA-Radio"
 license=('MIT')
 install=minerva-radio.install
 depends=(
@@ -24,7 +24,7 @@ depends=(
 )
 optdepends=(
     'cli-visualizer'
-source=("$pkgname-$pkgver.tar.gz::https://github.com/TheWhyteWolf/MiNERVA-Radio/archive/refs/tags/v$pkgver.tar.gz")
+source=("$pkgname-$pkgver.tar.gz::https://github.com/allthemalware/MiNERVA-Radio/archive/refs/tags/v$pkgver.tar.gz")
 sha256sums=('SKIP')
 
 package() {

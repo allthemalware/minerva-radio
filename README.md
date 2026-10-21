@@ -22,7 +22,7 @@ music library.
 ### Manual
 
 ```bash
-git clone https://github.com/TheWhyteWolf/MiNERVA-Radio.git
+git clone https://github.com/allthemalware/MiNERVA-Radio.git
 cd MiNERVA-Radio
 makepkg -si
 ```
