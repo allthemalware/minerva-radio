@@ -1,4 +1,4 @@
-# Maintainer: Whyte Richardson <your@email.tld>
+# Maintainer: Whyte Erminae <your@email.tld>
 
 pkgname=minerva-radio
 pkgver=1.0.0
